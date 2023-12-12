@@ -1,0 +1,34 @@
+{
+    "superadmin": {
+      "name": ["Akshay"],
+      "role": "superadmin",
+      "data": [
+        "Employee Data",
+        "Company Finance Data",
+        "Company Share",
+        "Running Project",
+        "Complete Project"
+      ]
+    },
+    "streamadmin": {
+      "name": ["Akash", "Vikash", "Vipin"],
+      "role": "streamadmin",
+      "data": [
+        "Employee Data",
+        "Company Share",
+        "Running Project",
+        "Complete Project"
+      ]
+    },
+    "manager": {
+      "name": ["Manager"],
+      "role": "manager",
+      "data": ["Employee Data", "Running Project", "Complete Project"]
+    },
+    "employee": {
+      "name": ["Salman", "Varun"],
+      "role": "employee",
+      "data": ["Running Project", "Complete Project"]
+    }
+  }
+  
